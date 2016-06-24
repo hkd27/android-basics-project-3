@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--this is the list of Questions-->
+    <string-array name="Questions">
+
+        <item >What is 30/5 ?</item>
+        <item > Android can Work on which devices ?</item>
+        <item >Is this image of Duck ?</item>
+        <item >What is 12 x 2 ?</item>
+        <item >What is 8 + 20 ?</item>
+        <item >What is 9 X 2 ?</item>
+        <item >What is 11 x 6 ?</item>
+
+    </string-array>
+
+    <!--This is List of Answers-->
+    <string-array name="Answers">
+
+        <item >6</item>
+        <item >Phones,Wearables,Cars,IOT</item>
+        <item >Yes</item>
+        <item >24</item>
+        <item >28</item>
+        <item >18</item>
+        <item >66</item>
+
+    </string-array>
+
+    <!--This is List of Options for each Questions-->
+    <string-array name="option_for_0th_question">
+
+        <item >6</item>
+        <item >4</item>
+        <item >28</item>
+        <item >18</item>
+
+
+    </string-array>
+    <string-array name="option_for_1st_question">
+
+        <item >Phones</item>
+        <item >Wearables</item>
+        <item >Cars</item>
+        <item >IOT</item>
+
+
+
+    </string-array>
+    <string-array name="option_for_2nd_question">
+
+
+        <item >No</item>
+        <item >Yes</item>
+
+
+    </string-array>
+    <string-array name="option_for_3rd_question">
+
+
+        <item >24</item>
+        <item >28</item>
+        <item >18</item>
+        <item >66</item>
+
+    </string-array>
+    <string-array name="option_for_4th_question">
+
+
+        <item >24</item>
+        <item >28</item>
+        <item >8</item>
+        <item >6</item>
+
+    </string-array>
+    <string-array name="option_for_5th_question">
+
+        <item >-1</item>
+        <item >0</item>
+        <item >18</item>
+        <item >66</item>
+
+    </string-array>
+    <string-array name="option_for_6th_question">
+
+
+        <item >3</item>
+        <item >284</item>
+        <item >67</item>
+        <item >66</item>
+
+    </string-array>
+
+</resources>
